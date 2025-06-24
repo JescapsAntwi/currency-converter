@@ -26,14 +26,6 @@ All logic is implemented in vanilla JavaScript, making it fast and easy to under
 
 ## 📁 Project Structure
 
-currency-converter/
-│
-├── index.html # HTML structure
-├── style.css # Styling and responsive design
-├── script.js # Core functionality and API integration
-├── screenshot.png # Preview of the app
-└── README.md # Project documentation
-
 ---
 
 ## 🛠️ Technologies Used
