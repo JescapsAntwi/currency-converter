@@ -34,7 +34,6 @@ currency-converter/
 ├── screenshot.png # Preview of the app
 └── README.md # Project documentation
 
-
 ---
 
 ## 🛠️ Technologies Used
